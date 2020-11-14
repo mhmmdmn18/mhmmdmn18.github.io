@@ -1,0 +1,10 @@
+#000 ~ b
+#fff ~ w
+#ddd ~ lg
+#888 ~ g
+
+green (min->max)
+#2ffc8d ~ g1
+#03e370 ~ g2
+#10c767 ~ g3
+#00ab6c ~ g4
